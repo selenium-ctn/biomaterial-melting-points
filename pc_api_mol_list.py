@@ -5,7 +5,7 @@ import numpy as np
 import pc_mp_set 
 
 mol_list = ["glucose", "arabinose", "xylose", "galactose", "mannose", "fructose", "fucose", "rhamnose", "apiose", \
-"galacturonic acid", "mannuronic acid", "guluronic acid", "cellulose", "beta-d-glucan", "xyloglucan", "starch", "amylose", \
+"galacturonic acid", "mannuronic acid", "guluronic acid", "glucopyranose", "cellulose", "beta-d-glucan", "xyloglucan", "starch", "amylose", \
 "amylopectin", "inulin", "pectin", "agarose", "alginate", "carrageenan", "galactomannan", "glucomannan", \
 "mannan", "pectin", "xylan", "dextran", "cellobiose", "callose", "rhamnogalacturonan", "arabinogalactan"]
 
@@ -25,6 +25,10 @@ for ii in mol_list:
         if curr_cid in mp_cid_set:
             if curr_cid not in carb_cids:
                 carb_cids.append(curr_cid)
+
+cid_str = " ".join(str(x) for x in carb_cids)
+with open("cid_list.txt", "w") as f:
+    f.write(cid_str)
 
 print(carb_cids)
 print(len(carb_cids))

@@ -1,0 +1,460 @@
+,Name,CID,SMILES,XLogP,Melting Point
+0,GLUCOSE,107526,"C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O
+","-2.900
+","['146 °C', 'less than 32 °F (USCG, 1999)', '146 °C']"
+1,alpha-D-Glucose,79025,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
+","-2.6
+","['133.0 °C', '146°C']"
+2,OCTADECYLAMINE,5793,"C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+","-2.6
+","['116.5 °C', '52.9 °C', '239 to 244 °F (EPA, 1998)', '120 to 126 °F (NTP, 1992)', '116.5 °C', '206.5 °C', '52.9 °C', '133.0 °C', '49-52°C', '52.9 °C']"
+3,Glucosamine,439213,"C([C@@H]1[C@H]([C@@H]([C@H](C(O1)O)N)O)O)O
+","-2.8
+","['88 °C', '88°C']"
+4,Mefluidide-diolamine,206,"C(C1C(C(C(C(O1)O)O)O)O)O
+","-2.6
+","['175.5 °C', '200 °C (decomposes)', '116.5 °C', '9 °C', '200 °C (decomposes)', '111-115 °C', '168.5 °C', '11-12 °C', '175.5 °C', '93 °C', '227-229 °C (decomposition)', '318 to 320 °F (EPA, 1998)', '347 to 356 °F (NTP, 1992)', '349 to 351 °F (NTP, 1992)', '239 to 244 °F (EPA, 1998)', '334 to 336 °F (NTP, 1992)', '116.5 °C', '201.75 °C', '162.0 °C', '114.0 °C', '115.0 °C', '-45.0 °C', '178.0 °C', '143.5 °C', '163.0 °C', '228.0 °C', '12.0 °C', '155.0 °C', '-38.2 °C', '188.3 °C', '65.4 °C', '237.0 °C', '127.0 °C', '190.0 °C', '268.0 °C', '68.0 °C', '134.5 °C', '133.0 °C', '291.5 °C', '60.0 °C', '182.0 °C', '97.3 °C', '93.0 °C', '52.0 °C', '246.5°C', '170°C', '270°C', '218-225°C', '<25°C', '114°C', '207-208°C', '167-169°C', '212°C', '300°C', '186-187°C', '238-239.3°C', '220°C', '79-80°C', '224-225°C', '122-123°C', '50°C', '-251°C', '<25°C', '178-180°C', '265-267°C', '58-59°C', '350-354°C', '195-199°C', '163-174°C', '135-136°C', '227-229°C', '66-70°C', '190-193°C', '221-223°C', '64.5 °C', '113 °C', '175-176 °C', '66 °C', '349°F', '218-225 °C', '< 25 °C', 'Decomposes at 75', '106-108 °C']"
+5,N-Acetyl-D-glucosamine,439174,"CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](OC1O)CO)O)O
+","-1.700
+",['210°C']
+6,GLUCOSE,24749,"C(C(C(C(C(C=O)O)O)O)O)O
+","-2.900
+","['146 °C', 'less than 32 °F (USCG, 1999)', '133.0 °C', '146 °C']"
+7,Heptyl octanoate,6134,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+","['200 °C', 'Decomposes at 203.5 °C', '433 °F (NTP, 1992)', '-10.6 °C', '44.0 °C', '127-128.5°C', '-10°C']"
+8,"2,3,4,5,6-Penta-O-acetyl-D-glucose",2724702,"CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+","0.600
+","['123.65 °C', '135°C']"
+9,"D-Glucopyranose, pentaacetate",79064,"CC(=O)OCC1C(C(C(C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+","0.600
+",['123.65 °C']
+10,D-Glucose,64689,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O)O)O)O)O
+","-2.6
+",['146-150°C']
+11,Levoglucosan,2724705,"C1[C@@H]2[C@H]([C@@H]([C@H]([C@H](O1)O2)O)O)O
+","-2.1
+",['183°C']
+12,Maltose,439186,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['102-103 °C']
+13,2-deoxyglucose,108223,"C(C=O)[C@H]([C@@H]([C@@H](CO)O)O)O
+","-2.9
+","['135.3333333333 °C', '147°C (296.6°F)']"
+14,Cellobiose,10712,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+","['200 °C', '392 °F (EPA, 1998)', '200.0 °C', '240.0 °C', '229-230°C']"
+15,N-Acetylgalactosamine,84265,"CC(=O)N[C@@H]1[C@H]([C@H]([C@H](O[C@@H]1O)CO)O)O
+","-1.700
+",['172-173°C']
+16,Cellobiose,439178,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['240.0 °C']
+17,Methyl alpha-D-glucopyranoside,64947,"CO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-2.200
+",['168.0 °C']
+18,(S)-camphor,294,"C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)O)CO)O)O)O)O
+","-4.7
+","['-75.6 °C', '109-110 °C', '155-156 °C', '4 °C', '200 °C', '156 °C', '38.1 °C', '205 °C', '180-183 °C', '228 °C', '151-152 °C', '152-153 °C (sublimes)', '79.8 °C', '610 °C', '< -40 °C', '31 °C', 'No definitive melting point', '171-175 °C; 164-166 °C', '161-162 °C', '176.8 °C', '86 to 88 °C', '90 °C /OECD Guideline 102/', '284 °C', '208-209 °C (decomposes)', '306 °F (NTP, 1992)', '37 °F (USCG, 1999)', 'greater than 662 °F (NTP, 1992)', '561 to 572 °F (decomposes) (NTP, 1992)', '500 to 518 °F (Decomposes) (NIOSH, 2016)', '381 to 383 °F (NTP, 1992)', '482 to 491 °F (explosively decomposes) (NTP, 1992)', '228 to 230 °F (NTP, 1992)', '353.5 °F (NTP, 1992)', '1121 °F (NTP, 1992)', '-105.7 °F (NTP, 1992)', '140 to 144 °F (NTP, 1992)', '313 °F (EPA, 1998)', '356 °F (decomposes) (NTP, 1992)', '381 to 385 °F (NTP, 1992)', '246 to 250 °F (NTP, 1992)', '167 to 185 °F (decomposes) (NTP, 1992)', '205.0 °C', '109.5 °C', '151.5 °C', '179.26666666669996 °C', '190.0 °C', '182.0 °C', '90.5 °C', '95.5 °C', '181.5 °C', '155.0 °C', '-76.5 °C', '-100.0 °C', '31.0 °C', '240.0 °C', '-64.3 °C', '-18.1 °C', '21.0 °C', '90.5 °C', '57.3 °C', '175.0 °C', '111.0 °C', '121.0 °C', '236.6°C', '238-242°C', '299°C', '205°C', '118°C', '228°C', '34°C', '257-258°C', '255-259°C', '130°C', '<25°C', '58-59°C', '-18.1°C', '93-95°C', '288°C', '225°C', '76.5°C', '5.5°C', '107-109°C', '151-152°C', '96-97°C', '66-70°C', '260-261°C', '<25°C', '-68.4°C', '263.5-265°C', '250-253°C', '197-201°C', '138-141°C', '-76.5 °C', '613 °C', '500-518°F (Decomposes)', '-106°F', '500-518°F (decomposes)', '-106°F', '238-242 °C', '75-85', '178-180']"
+19,"D-Glucopyranose, pentaacetate",10293747,"CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H](C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+","0.600
+",['123.65 °C']
+20,D-Maltose,10991489,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@@H]([C@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['102-103°C']
+21,Deoxyglucose,225612,"C(C=O)C(C(C(CO)O)O)O
+","-2.9
+",['135.3333333333 °C']
+22,Methyl beta-D-glucopyranoside,445238,"CO[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-2.200
+","['168.0 °C', '108-110°C']"
+23,Glucosereductone,4451502,"C(=O)C(C=O)O
+","-1.2
+",['143°C']
+24,Scilliroside,441871,"CC(=O)O[C@@H]1C[C@@]2([C@H](CC[C@]3([C@@]2(CC[C@@H]3C4=COC(=O)C=C4)O)C)[C@@]5(C1=C[C@H](CC5)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)C)O
+","-0.4
+","['169 °C', '169.0 °C']"
+25,beta-Glucogallin,4628122,"C1=C(C=C(C(=C1O)O)O)C(=O)OC2C(C(C(C(O2)CO)O)O)O
+","-1.4
+",['205-206°C']
+26,1-O-p-Coumaroyl-beta-D-glucose,14158116,"C1=CC(=CC=C1/C=C/C(=O)OC2C(C(C(C(O2)CO)O)O)O)O
+","0.100
+",['212°C']
+27,Linamarin,11128,"CC(C)(C#N)O[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-1.800
+","['142-143 °C', '145.0 °C', '73.0 °C', '143-144°C']"
+28,Arbutin,440936,"C1=CC(=CC=C1O)O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O
+","-0.700
+","['199 °C', '199.5 °C']"
+29,Alpha-Lactose,84571,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+","['235.0 °C', '201-202°C']"
+30,6-O-p-Coumaroyl-D-glucose,13915664,"C1=CC(=CC=C1/C=C/C(=O)OCC2C(C(C(C(O2)O)O)O)O)O
+","-0.8
+",['184-186°C']
+31,Chloralose,7057995,"C([C@H]([C@@H]1[C@@H]([C@@H]2[C@H](O1)O[C@@H](O2)C(Cl)(Cl)Cl)O)O)O
+","1.000
+",['183.0 °C']
+32,"1,5-Anhydrosorbitol",64960,"C1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-2.1
+",['142-143°C']
+33,Scilliroside,62354,"CC(=O)OC1CC2(C(CCC3(C2(CCC3C4=COC(=O)C=C4)O)C)C5(C1=CC(CC5)OC6C(C(C(C(O6)CO)O)O)O)C)O
+","-0.4
+","['169 °C', '169.0 °C']"
+34,Maltodextrin,439341,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['240°C']
+35,"D-GLUCOSE, 2-DEOXY-2-[[(METHYLNITROSOAMINO)-CARBONYL]AMINO]-",2733335,"CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](OC1O)CO)O)O)N=O
+","-1.400
+","['239 °F (Decomposes) (NTP, 1992)']"
+36,Streptozocin,29327,"CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O
+","-1.400
+","['239 °F (Decomposes) (NTP, 1992)', '115°C']"
+37,(7'R)-(+)-Lyoniresinol 9'-glucoside,2108,"COC1C(C(C(C(O1)CO)O)O)O
+","-2.200
+","['148 °C', '168.0 °C', '99.75 °C', '44.5 °C', '158.5 °C', '178-180°C']"
+38,Paclitaxel,6314,"CCN(CC)CC(=O)NC1=C(C=CC=C1C)C.Cl
+","
+","['213-216 °C (decomposition)', '415 to 421 °F (NTP, 1992)', '77.5 °C', '-16.3 °C', '222.0 °C', '242.5 °C', '213-216°C', '216-217 °C']"
+39,"1,2,3,6-Tetragalloyl-beta-D-glucopyranose",5153644,"C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O)O
+","1.5
+",['250°C']
+40,"1,2,4,6-Tetragalloyl-beta-D-glucopyranose",14464350,"C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)O)OC(=O)C5=CC(=C(C(=C5)O)O)O
+","1.5
+",['250°C']
+41,SPINOSAD,346,"C1=CC(=CC=C1O)OC2C(C(C(C(O2)CO)O)O)O
+","-0.700
+","['Approximately 200 °C (rearranges above that point)', '284 C degrees (decomposes)', '175.5 °C', '39 °C', '25 °C (UNSTABLE)', '134.5 °C', 'Melting point: 106-107 °C cis-isomer; 104-105 °C trans-isomer', '350 °C; decomposes at 370 °C with evolution of oxygen.', '25 °C', '7 °C', '59 °C', '102-108 °C', '76-78 °C', '221 °C ... also reported as 208-209 °C', '254-255 °C', '251 °C WITH DECOMP', '111-115 °C', '91-92 °C', '212 °C', '223-226 °C', '246.5 °C', '180 °C', '-53.5 °C', '62.1 °C', 'Melting point: 235 °C, with decomposition', '236-251 °C', '242-246 °C', '220-225 °C', '148-151 °C', '84 C to 99.5 C', '128-132 °C', '50 °C', '>300 °C', '113-115 °C', '171-175 °C; 164-166 °C', '187-188 °C', '62 °C', '399 to 401 °F (Decomposes) (NTP, 1992)', '532 °F (decomposes) (NTP, 1992)', 'greater than 572 °F (NTP, 1992)', '266 °F (Decomposes) (NTP, 1992)', '1765 °F (NTP, 1992)', 'greater than 572 °F (NTP, 1992)', '104.9 °F (Turbid) (NTP, 1992)', '298 to 304 °F (NTP, 1992)', '239 °F (Decomposes) (NTP, 1992)', '-13 °F (NTP, 1992)', '349 to 351 °F (NTP, 1992)', 'Decomposes at 473° F. (EPA, 1998)', '43 °F (NIOSH, 2016)', '260 to 262 °F (NTP, 1992)', '320 to 356 °F (decomposes) (NTP, 1992)', '-31 °F (NTP, 1992)', '509 to 516 °F (decomposes) (NTP, 1992)', '82 to 84 °F (NTP, 1992)', '430 °F (NTP, 1992)', '347 °F (EPA, 1998)', '662 °F (NTP, 1992)', '387 °F (decomposes) (NTP, 1992)', '274.1 °F (NTP, 1992)', '246.5 °C', '106.0 °C', '149.5 °C', '201.75 °C', '201.75 °C', '7.5 °C', '62.0 °C', '212.0 °C', '134.5 °C', '198.0 °C', '20.0 °C', '136.0 °C', '100.0 °C', '115.0 °C', '292.5 °C', '150.5 °C', '77.0 °C', '243.5 °C', '131.5 °C', '156.5 °C', '220.0 °C', '244.0 °C', '198.0 °C', '28.5 °C', '-53.5 °C', '114.0 °C', '196.5 °C', '62.1 °C', '39.0 °C', '35.0 °C', '144.0 °C', '204.0 °C', '177.0 °C', '295.0 °C', '198.5 °C', '6.1 °C', '199.5 °C', '122.5 °C', '20.5 °C', '206.5 °C', '82.5 °C', '38.5 °C', '233.0 °C', '226.25 °C', '50.0 °C', '181.5 °C', '89.0 °C', '199.5°C', '408-410°C', '246.5°C', '215°C', '156-157°C', '105°C(decomposition)', '61-63°C', '175°C', '112-113°C', '139-140°C', '134.5°C', '300°C', '142-143°C', '271°C', '122-123°C', '168-170°C', '45-46°C', '186-187°C', '178-180°C', '7.5°C', '41°C', '252-254°C', '187-189°C', '206-207°C', '204-205°C', '172-173°C', '115-117°C', '191-193°C', '113-116°C', '227-228°C', '211-212°C', '122°C', '111-112°C', '240-242°C', '185-187°C', '152-155°C', '118°C', '2477°C', '7.5 °C', '175-176 °C', '200 °C', '350 °C', '134.5 °C', '217-228°F', '349°F', '392°F (Decomposes)', '43°F', '-13°F', '43°F', '217-228°F', '473°F (decomposes)', '718.2°F', 'about 190 and 245-247', '120-121.5 °C', '156-157 °C', '58-61', 'Between 133 °C and 135 °C, after vacuum drying for four hours in a sulphuric acid desiccator', '50-60 °C', '112-123 °C']"
+42,2-O-p-Coumaroyl-D-glucose,14034264,"C1=CC(=CC=C1/C=C/C(=O)OC2C(C(C(OC2O)CO)O)O)O
+","-0.3
+",['204-206°C']
+43,Cellobiose,57370084,"C(C1[C@H]([C@@H](C([C@@H](O1)O[C@H]2[C@@H](C(C(OC2CO)O)O)O)O)O)O)O
+","-4.7
+",['240.0 °C']
+44,Serotinose,4474425,"C1C(C(C(C(O1)OCC2C(C(C(C(O2)O)O)O)O)O)O)O
+","-4.7
+",['200-201°C']
+45,TANNIC ACID,16129778,"C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H]([C@@H](O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O
+","6.2
+",['200 °C']
+46,Cellobiose,441014,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['240.0 °C']
+47,Neohesperidose,5184980,"CC1C(C(C(C(O1)OC2C(C(C(OC2O)CO)O)O)O)O)O
+","-3.7
+",['191-192°C']
+48,Panose,4120027,"C(C1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3C(OC(C(C3O)O)O)CO)O)O)O)O)O)O)O
+","-6.9
+",['223°C']
+49,"3,3&#39;-DIMETHOXYBENZIDINE DIHYDROCHLORIDE",62311,"COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N.Cl.Cl
+","
+","['2,075 °C', '514 °F (NTP, 1992)']"
+50,TANNIC ACID,16131300,"C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OC[C@@H]3[C@H]([C@@H]([C@H](C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O
+","6.2
+",['200 °C']
+51,Tri-N-acetylchitotriose,123774,"CC(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O[C@@H]2[C@H](O[C@H]([C@@H]([C@H]2O)NC(=O)C)O[C@H]([C@@H](CO)O)[C@@H]([C@H](C=O)NC(=O)C)O)CO)CO)O)O
+","-7.2
+",['304-306°C']
+52,L-Arabinopyranose,439195,"C1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O
+","-2.5
+",['158.0 °C']
+53,SODIUM CHLORATE,6902,"C1[C@H]([C@H]([C@@H](C(O1)O)O)O)O
+","-2.5
+","['248 °C', '200 °C (decomposes)', '478 °F (USCG, 1999)', '158.0 °C', '248 °C']"
+54,Milnacipran,229,"C1C(C(C(C(O1)O)O)O)O
+","-2.5
+","['109-111 °C (SUBLIMES)', '169.7 °C', '220 °C decomposes', '89 °C', 'Decomposes on heating without melting', '157 °C (decomposes)', '156.5 °C', '200-300 °C (decomposes)', '-48 °C', 'No definitive melting point', '90 °C /OECD Guideline 102/', '337.8 °F (USCG, 1999)', '561 to 572 °F (decomposes) (NTP, 1992)', '626 to 644 °F (exothermic) (NTP, 1992)', '446 to 464 °F (Decomposes) (NTP, 1992)', '18 °F (NIOSH, 2016)', '131 °F (NTP, 1992)', '109.0 °C', '55.0 °C', '80.0 °C', '190.0 °C', '222.0 °C', '95.5 °C', '-48.0 °C', '164.0 °C', '237.75 °C', '124.0 °C', '-134.9 °C', '-30.0 °C', '149.8 °C', '158.0 °C', '-68.7 °C', '-64.3 °C', '106.0 °C', '7.3 °C', '121.0 °C', '90.0 °C', '-44.3 °C', '32.0 °C', '147.5 °C', '-63.5 °C', '175.0 °C', '62.5 °C', '16.5°C', '220-224°C', '118°C', '77-79°C', '124-125°C', '117-118°C', '132-136°C', '202-204°C', '180-183°C', '173-178°C', '165-170°C', '163°C', '-69°C', '119-120°C', '-63.5°C', '198°C', '215-217°C', '200-201°C', '167-167.5°C', '187-191°C', '201°C', '125-128°C', '96-97°C', '219-221°C', '170-172°C', '156-158°C', '192-193°C', '176-178°C', '273-275°C', '199-201°C', '-68.4°C', '18.5-19°C', '-30°C', '170 °C', '90 °C', '18°F', '18°F', '314.6°F', '220-224 °C', '179°C']"
+55,L-Arabinose,439764,"C1[C@@H]([C@@H]([C@H]([C@H](O1)O)O)O)O
+","-2.5
+","['158.0 °C', '158-160°C']"
+56,L-Arabinopyranose,25245970,"C1[C@@H]([C@@H](C(C(O1)O)O)O)O
+","-2.5
+",['158.0 °C']
+57,L-Arabinopyranose,444173,"C1[C@H]([C@H]([C@@H]([C@@H](O1)O)O)O)O
+","-2.5
+",['158.0 °C']
+58,Cytarabine,6253,"C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)CO)O)O
+","-2.100
+","['212-213 °C', '45 °F (USCG, 1999)', '414 to 415 °F (NTP, 1992)', '212.5 °C', '-10.0 °C', '212-213°C', '-10°C', '186-188']"
+59,Ara-5'-CMP,65177,"C1=CN(C(=O)N=C1N)[C@H]2[C@H]([C@@H]([C@H](O2)COP(=O)(O)O)O)O
+","-3.400
+","['172.6 °C', '173.0 °C', '233.0 °C']"
+60,L-Arabinopyranose,641630,"C1[C@@H]([C@H]([C@H]([C@@H](O1)O)O)O)O
+","-2.5
+",['158.0 °C']
+61,L-Arabinopyranose,59435876,"C1[C@H](C(C(C(O1)O)O)O)O
+","-2.5
+",['158.0 °C']
+62,beta-D-Xylopyranosyl-(1->5)-alpha-L-arabinofuranosyl-(1->3)-L-arabinose,131752478,"C1C(C(C(C(O1)O)O)OC2C(C(C(O2)COC3C(C(C(CO3)O)O)O)O)O)O
+","-5.6
+",['131-140°C']
+63,2-O-b-D-Xylopyranosyl-L-arabinose,131752484,"C1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H]([C@H](COC2O)O)O)O)O)O
+","-4.0
+",['98-99°C']
+64,(D)-XYLOSE,644160,"C([C@H]([C@@H]([C@H](C=O)O)O)O)O
+","-2.300
+",['153-154 °C']
+65,D-Xylose,135191,"C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O
+","-2.5
+",['90.5°C']
+66,Anofinic acid,19235,"C1[C@H]([C@@H]([C@H]([C@H](O1)OP(=O)(O)OP(=O)(O)OC[C@@H]2[C@H]([C@H]([C@@H](O2)N3C=CC(=O)NC3=O)O)O)O)O)O
+","-6.6
+","['144.5°C', '160°C']"
+67,4-O-beta-D-Galactopyranosyl-D-xylose,131752482,"C1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O
+","-4.1
+",['201-211°C']
+68,4-O-Methyl-a-D-glucosyl-(1->2)-b-D-xylosyl-(1->4)-D-xylose,78382737,"COC1C(C(C(OC1C(=O)O)OC2C(C(COC2OC3COC(C(C3O)O)O)O)O)O)O
+","-5.4
+",['180-187°C']
+69,Xylobiose,131750922,"C1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2COC([C@@H]([C@H]2O)O)O)O)O)O
+","-4.0
+",['185-190°C']
+70,Isocolumbin,6036,"C([C@@H]1[C@@H]([C@@H]([C@H](C(O1)O)O)O)O)O
+","-2.6
+","['292.5 °C', '133.0 °C', '163.0 °C', '169.0 °C', '137.0 °C', '190°C']"
+71,D-Galactose,439357,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O
+","-2.6
+",['170°C']
+72,L-Fucose,17106,"C[C@H]1[C@H]([C@H]([C@@H](C(O1)O)O)O)O
+","-2.1
+","['482 °F (decomposes) (NTP, 1992)', '140°C']"
+73,"D-lyxo-Hexose, 2-deoxy-",102191,"C(C=O)[C@H]([C@H]([C@@H](CO)O)O)O
+","-2.9
+",['146.5 °C']
+74,L-Galactose,439583,"C([C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)O)O)O)O)O
+","-2.6
+",['163-165°C']
+75,4-Nitrophenylgalactoside,65115,"C1=CC(=CC=C1[N+](=O)[O-])O[C@H]2[C@@H]([C@H]([C@H]([C@H](O2)CO)O)O)O
+","-0.400
+",['188.75 °C']
+76,INDIUM COMPOUNDS (as In),967,"C1=C(NC(=O)NC1=O)C(=O)O
+","-1.400
+","['-31 °C', '284 C degrees (decomposes)', '-41.5 °C', '177 °C (some decomposition)', '100 °C; decomposes', '345-346 °C', '108 °C', '156.6 °C', '113-115 °C', '165 °C', '3 °F (NTP, 1992)', '-42.7 °F (EPA, 1998)', '314 °F (NIOSH, 2016)', '217 to 219 °F (decomposes) (NTP, 1992)', '653 to 655 °F (NTP, 1992)', '-41.5 °C', '-31.0 °C', '108.0 °C', '247.5 °C', '345.5 °C', '56.5 °C', '114.0 °C', '9.8 °C', '-61.25 °C', '213.5 °C', '152.5 °C', '-54.9 °C', '53.0 °C', '74.0 °C', '45.0 °C', '176.0 °C', '-68.3 °C', '345.5°C', '-31°C', '161-163°C', '118°C', '165-166°C', '128°C', '152-153°C', '284-286°C', '60-62°C', '71-75°C', '128.5-129.5°C', '174-175°C', '-61°C', '246-248°C', '-42 °C', '-32.1 °C', '156.6 °C', '-49°F', '314°F', '-49°F', '314°F']"
+77,Galabiose,5288350,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)O[C@H]2[C@H](O[C@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['212-213°C']
+78,Rhamnose,25310,"C[C@H]1[C@@H]([C@H]([C@H](C(O1)O)O)O)O
+","-2.1
+",['122°C']
+79,L-Rhamnose,220001,"CC(C(C(C(C=O)O)O)O)O
+","-2.4
+",['135.3333333333 °C']
+80,Sucralose,71485,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)O[C@]2([C@H]([C@@H]([C@H](O2)CCl)O)O)CCl)O)O)Cl)O
+","-1.500
+","['130 °C', '130.0 °C']"
+81,"1,2-Diphenylethanone",9948,"C1=CC=C(C=C1)CC(=O)C2=CC=CC=C2
+","3.200
+","['242-246 °C', '244.0 °C', '60.0 °C']"
+82,Acaciabiuronic acid,14160009,"C(C1C(C(C(C(O1)O)O)O)O)OC2C(C(C(C(O2)C(=O)O)O)O)O
+","-4.5
+",['118-119°C']
+83,"D-Glucopyranose, pentaacetate",2729838,"CC(=O)OC[C@@H]1[C@@H]([C@@H]([C@H](C(O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C
+","0.600
+",['123.65 °C']
+84,Lacto-N-triose I,22609086,"CC(=O)NC1C(C(C(OC1OC2C(C(OC(C2O)O)CO)O)CO)O)OC3C(C(C(C(O3)CO)O)O)O
+","-5.800
+",['202°C']
+85,Galactotriose,455149,"C(C1C(C(C(C(O1)O)O)OC2C(C(C(C(O2)CO)O)OC3C(C(C(C(O3)CO)O)O)O)O)O)O
+","-5.8
+",['240-245°C']
+86,D-Mannose,185698,"C([C@@H]1[C@H]([C@@H]([C@@H]([C@H](O1)O)O)O)O)O
+","-2.6
+","['133.0 °C', '132°C']"
+87,Methyl alpha-D-glucopyranoside,101798,"CO[C@@H]1[C@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-2.200
+",['168.0 °C']
+88,alpha-L-Rhamnose,439710,"C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O)O)O)O
+","-2.1
+",['139.5 °C']
+89,Mannobiose,448165,"C([C@@H]1[C@H]([C@@H]([C@@H]([C@@H](O1)O[C@@H]2[C@H](O[C@H]([C@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['203-204°C']
+90,L-Rhamnose,19233,"C[C@@H]([C@@H]([C@H]([C@H](C=O)O)O)O)O
+","-2.4
+",['135.3333333333 °C']
+91,Asunaprevir,6883,"C1[C@H]([C@@H]2[C@H](O1)[C@H](CO2)O[N+](=O)[O-])O[N+](=O)[O-]
+","1.300
+","['76-78 °C', '70 °C', '111-115 °C', 'Melting point: 235 °C, with decomposition', '509 to 516 °F (decomposes) (NTP, 1992)', '408 to 414 °F (decomposes) (NTP, 1992)', '115.0 °C', '77.0 °C', '70.0 °C', '70°C', '295-297°C', '60-61°C', '145-155 ºC']"
+92,Turanose,5460935,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O[C@@H]([C@@H]([C@@H](CO)O)O)C(=O)CO)O)O)O)O
+","-4.8
+",['168°C']
+93,Lactulose,11333,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](O[C@@]([C@H]2O)(CO)O)CO)O)O)O)O
+","-4.300
+",['169°C']
+94,D-Fructose,439709,"C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)O
+","-2.3
+",['119-122°C']
+95,Tagatose,92092,"C([C@H]([C@@H]([C@@H](C(=O)CO)O)O)O)O
+","-3.2
+",['133-135 °C']
+96,CRAG® HERBICIDE (SESONE),6904,"C([C@@H]([C@H]([C@@H](C(=O)CO)O)O)O)O
+","-3.2
+","['245 °C DECOMP', '473 °F (Decomposes) (NIOSH, 2016)', '140 to 147 °F (NTP, 1992)', 'greater than 572 °F (NTP, 1992)', '165.0 °C', '95.8 °C', '473°F (Decomposes)', '473°F (decomposes)']"
+97,"D-1,5-Anhydrofructose",14299935,"C1C(=O)C(C(C(O1)CO)O)O
+","-1.6
+",['107-112°C']
+98,Maltulose,22315804,"C(C1C(C(C(C(O1)OC(CO)C(C(C(=O)CO)O)O)O)O)O)O
+","-4.8
+",['200-202°C']
+99,2-O-Methyl-L-fucose,444792,"C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)O)OC)O)O
+","-1.6
+",['150-152°C']
+100,Proscillaridin,5284613,"C[C@H]1[C@@H]([C@H]([C@H]([C@@H](O1)O[C@H]2CC[C@@]3([C@H]4CC[C@@]5([C@H](CC[C@@]5([C@@H]4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O
+","1.9
+",['221.0 °C']
+101,Medicoside G,4951,"CC1C(C(C(C(O1)OC2CCC3(C4CCC5(C(CCC5(C4CCC3=C2)O)C6=COC(=O)C=C6)C)C)O)O)O
+","1.9
+","['158 to 172 °F (NTP, 1992)', '221.0 °C', '78.0 °C', '170°C', '223-224°C', '220°C', '255°C']"
+102,Lactose,440995,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)O[C@@H]2[C@H](OC([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['201-202 °C']
+103,Melibiose,6602503,"C([C@@H]1[C@@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O)O)O)O)O)O)O)O
+","-4.7
+","['86.0 °C', '84°C']"
+104,"1,6-Digalloyl-beta-D-glucopyranose",3332212,"C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)O
+","-0.8
+",['204-206°C']
+105,"N,2,3-Trimethyl-2-(1-methylethyl)butanamide",5300,"CN(C(=O)NC1C(C(C(OC1O)CO)O)O)N=O
+","-1.400
+","['239 °F (Decomposes) (NTP, 1992)', '131.0 °C', '60.0 °C', '61.0 °C', '56-64°C']"
+106,Gluconapin,9548620,"C=CCC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-0.8
+",['125°C']
+107,Metrizamide,443944,"CC(=O)NC1=C(C(=C(C(=C1I)C(=O)N[C@@H]2[C@H]([C@@H]([C@H](OC2O)CO)O)O)I)N(C)C(=O)C)I
+","-0.4
+",['223°C']
+108,"1,4,6-Trigalloyl-beta-D-glucopyranose",14284610,"C1=C(C=C(C(=C1O)O)O)C(=O)OCC2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O
+","0.4
+",['204-205°C']
+109,Glucoiberin,9548622,"CS(=O)CCC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-2.4
+",['142-144°C']
+110,Methyl glucosinolate,9573942,"C/C(=N\OS(=O)(=O)O)/SC1C(C(C(C(O1)CO)O)O)O
+","-1.8
+",['207-209°C']
+111,"1,2-Digalloyl-beta-D-glucopyranose",14034255,"C1=C(C=C(C(=C1O)O)O)C(=O)OC2C(C(C(OC2OC(=O)C3=CC(=C(C(=C3)O)O)O)CO)O)O
+","-0.3
+",['169-170°C']
+112,D-Vacciniin,12444645,"C1=CC=C(C=C1)C(=O)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O)O)O)O
+","-0.9
+",['104-106°C']
+113,(E)-2-O-Cinnamoyl-beta-D-glucopyranose,14345566,"C1=CC=C(C=C1)/C=C/C(=O)OC2C(C(C(OC2O)CO)O)O
+","0.1
+",['156.5-158°C']
+114,"D-GLUCOSE, 2-DEOXY-2-[[(METHYLNITROSOAMINO)-CARBONYL]AMINO]-",7067772,"CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@H]1O)CO)O)O)N=O
+","-1.400
+","['239 °F (Decomposes) (NTP, 1992)']"
+115,Crocin,5281233,"C/C(=C\C=C\C=C(\C=C\C=C(\C(=O)O[C@@H]1O[C@@H]([C@H]([C@@H]([C@H]1O)O)O)CO[C@@H]2O[C@@H]([C@H]([C@@H]([C@H]2O)O)O)CO)/C)/C)/C=C/C=C(/C(=O)O[C@@H]3O[C@@H]([C@H]([C@@H]([C@H]3O)O)O)CO[C@@H]4O[C@@H]([C@H]([C@@H]([C@H]4O)O)O)CO)\C
+","-2.5
+","['186 °C (effervescence) /Di-gentiobiose ester/', '186.0 °C', '186°C']"
+116,Maltol,8369,"CC1=C(C(=O)C=CO1)O
+","0.4
+","['200 °C (decomposes)', '161.5 °C', '324 to 327 °F (NTP, 1992)', '161.5 °C', '86.0 °C', '78-80°C', '161-162°C']"
+117,2-Cinnamoyl-1-galloyl-beta-D-glucopyranose,131752569,"C1=CC=C(C=C1)/C=C\C(=O)OC2C(C(C(OC2OC(=O)C3=CC(=C(C(=C3)O)O)O)CO)O)O
+","1.2
+",['190-193°C']
+118,Betadex,320761,"C(C1C2C(C(C(O1)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)OC5C(OC(C(C5O)O)OC6C(OC(C(C6O)O)OC7C(OC(C(C7O)O)OC8C(OC(O2)C(C8O)O)CO)CO)CO)CO)CO)CO)O)O)O
+","-15.0
+",['260°C']
+119,"2-O-(4-Hydroxycinnamoyl)-1,6-di-O-galloyl-beta-D-glucopyranose",131752572,"C1=CC(=CC=C1/C=C\C(=O)OC2C(C(C(OC2OC(=O)C3=CC(=C(C(=C3)O)O)O)COC(=O)C4=CC(=C(C(=C4)O)O)O)O)O)O
+","1.5
+",['179-181°C']
+120,Sinigrin,6911854,"C=CC/C(=N\OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-1.1
+",['125-127°C']
+121,DIBOA-Glc,58114415,"C1=CC=C2C(=C1)N(C(=O)C(O2)OC3C(C(C(C(O3)CO)O)O)O)O
+","-1.6
+",['186.5-187°C']
+122,Glucoconringiin,131752365,"CC(C)(C/C(=N\OS(=O)(=O)O)/SC1C(C(C(C(O1)CO)O)O)O)O
+","-1.9
+",['168°C']
+123,TANNIC ACID,16129878,"C1=C(C=C(C(=C1O)O)O)C(=O)OC2=CC(=CC(=C2O)O)C(=O)OCC3C(C(C(C(O3)OC(=O)C4=CC(=C(C(=C4)OC(=O)C5=CC(=C(C(=C5)O)O)O)O)O)OC(=O)C6=CC(=C(C(=C6)OC(=O)C7=CC(=C(C(=C7)O)O)O)O)O)OC(=O)C8=CC(=C(C(=C8)OC(=O)C9=CC(=C(C(=C9)O)O)O)O)O)OC(=O)C1=CC(=C(C(=C1)OC(=O)C1=CC(=C(C(=C1)O)O)O)O)O
+","6.2
+",['200 °C']
+124,Gluconasturtiin,15560248,"C1=CC=C(C=C1)CC/C(=N\OS(=O)(=O)O)/SC2C(C(C(C(O2)CO)O)O)O
+","0.1
+",['171°C']
+125,Punicafolin,475273,"C1C2C(C(C(C(O2)OC(=O)C3=CC(=C(C(=C3)O)O)O)OC(=O)C4=CC(=C(C(=C4)O)O)O)OC(=O)C5=CC(=C(C(=C5C6=C(C(=C(C=C6C(=O)O1)O)O)O)O)O)O)OC(=O)C7=CC(=C(C(=C7)O)O)O
+","2.4
+",['235-237°C']
+126,Stevioside,442089,"C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)(C)C(=O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O
+","-1.2
+","['198.0 °C', '238-239°C']"
+127,Raphanusol A,131752568,"COC1=CC(=CC(=C1O)OC)/C=C\C(=O)OC2C(OC(C(C2O)O)OC(=O)/C=C\C3=CC(=C(C(=C3)OC)O)OC)COC4C(C(C(C(O4)CO)O)O)O
+","-0.2
+",['137-138°C']
+128,4-O-beta-Laminaribiosyl-D-glucose,91850734,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)O[C@H]2[C@@H]([C@H](O[C@H]([C@@H]2O)O[C@@H]3[C@H](O[C@H]([C@@H]([C@H]3O)O)O)CO)CO)O)O)O)O)O
+","-6.3
+",['229-231°C']
+129,Rebaudioside A,6918840,"C[C@@]12CCC[C@@]([C@H]1CC[C@]34[C@H]2CC[C@](C3)(C(=C)C4)O[C@H]5[C@@H]([C@H]([C@@H]([C@H](O5)CO)O)O[C@H]6[C@@H]([C@H]([C@@H]([C@H](O6)CO)O)O)O)O[C@H]7[C@@H]([C@H]([C@@H]([C@H](O7)CO)O)O)O)(C)C(=O)O[C@H]8[C@@H]([C@H]([C@@H]([C@H](O8)CO)O)O)O
+","-2.800
+",['242-244°C']
+130,Glucoerucin,6537200,"CSCCCC/C(=N/OS(=O)(=O)O)/S[C@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O
+","-0.5
+",['153-154°C']
+131,Glycogen,439177,"C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O)CO)O)O)O[C@@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)O)O)O)O)O
+","-8.5
+",['270-280°C']
+132,Glucosinalbin,415565,"C1=CC(=CC=C1CC(=NOS(=O)(=O)O)SC2C(C(C(C(O2)CO)O)O)O)O
+","-0.6
+",['191-192°C']
+133,METHYL CELLULOSE,51063134,"COCC1[C@H](C(C(C(O1)OC)OC)OC)O[C@H]2C(C(C(C(O2)COC)OC)OC)OC
+","-1.0
+","['290 to 305 °C /Film/', 'Decomposes upon heating from 482° F to 572° F (NTP, 1992)']"
+134,Ethyl cellulose,24832091,"CCOCC1C(C(C(C(O1)OC)OCC)OCC)OC2C(C(C(C(O2)CO)OC)O)O
+","-1.500
+","['240-255 °C', '151°C']"
+135,Tetracarboxyphenylporphine,783,"[HH]
+","0.000
+","['-25.6 °C', 'freezing pt: -41.5 °C', '220 °C decomposes', 'FREEZING POINT: FORMS GLASS @ -100 °C', '9.8 °C', '56-57 °C', 'approximately 1480 °C', '-150 °C', '300 °C', '170 °C (gradual decomposition)', 'Melts between 245 and 248 dec C with decomposition.', '180-183 °C', '131 °C', '151-152 °C', 'LESS THAN -55 °C', '-252.762 °C', 'Freezing point: -41.5 °C', '128 °C', 'MP: 103-105 °C /Monensin monohydrate/', '112.5-113.5 °C', '187-188 °C', '86 to 88 °C', '176 °C', '467 to 469 °F (decomposes) (NTP, 1992)', '-148 °F (NTP, 1992)', '-76 °F (NTP, 1992)', '-54.4 to -14.1 °F (EPA, 1998)', '49.9 °F (NTP, 1992)', '-434 °F (USCG, 1999)', '198 °F (NTP, 1992)', 'greater than 572 °F (NTP, 1992)', 'less than -67 °F (NTP, 1992)', '9.9 °C', '-41.6 °C', '151.5 °C', '14.5 °C', '126.0 °C', '103.0 °C', '181.5 °C', '132.0 °C', '92.0 °C', '192.0 °C', '61.0 °C', '44.0 °C', '156.5 °C', '181.0 °C', '113.0 °C', '80.8 °C', '65.0 °C', '79.5 °C', '119.0 °C', '-80.0 °C', '162.0 °C', '128.0 °C', '41.7 °C', '15.5 °C', '72.0 °C', '-51.0 °C', '198.0 °C', '37.0 °C', '-77.8 °C', '-259.2°C', '183.5°C', '156.5°C', '246-250°C', '219-221°C', '223-227°C', '284-286°C', '217-218°C', '240°C', '49-50°C', '25.5-26°C', '68°C', '142-144°C', '213-215°C', '50-51°C', '89°C', '-57.2°C', '145-146°C', '295-299°C', '96-97°C', '125-126°C', '193-194°C', '180-183°C', '320°C', '238°C', '168-170°C', '149-150°C', '196-198°C', '235-237°C', '238-240°C', '141-144°C', '182-183°C', '207-210°C', '196-197°C', '200-204°C', '230-233°C', '136-138°C', '304-305°C', '180-187°C', '174-176°C', '211-214°C', '260°C', '177-180°C', '133-136°C', '-259 °C', '-48 °C', '10 °C', '-100 °C', '-150 °C', '-148°F [forms glass]', '-54°F', '50°F', '-164°F', '<-67°F', '-54°F', '-148°F [forms glass]', '50°F', '174-175.5', '>300 °C', '>300 °C']"
+136,CELLULOSE,16211032,"C(C1[C@H](C(C(C(O1)O)O)O)O[C@H]2C(C(C(C(O2)CO)O)O)O)O
+","-4.7
+","['500 to 518 °F (Decomposes) (NIOSH, 2016)', '500-518°F (Decomposes)', '500-518°F (decomposes)']"
+137,"3,3'-Oxydipropionitrile",15452,"C(COCCC#N)C#N
+","-0.5
+",['-26.3 °C']
+138,Hydroxyethyl cellulose,4327536,"CC(COCC1C(C(C(C(O1)OC2C(OC(C(C2OCC(C)O)OCC(C)O)OCC(C)O)COCC(C)O)OCC(C)O)OCC(C)O)OCC(C)O)O
+","-3.0
+",['Decomposes at 205ºC as Cellosize']
+139,METHYL CELLULOSE,525128,"COCC1C(C(C(C(O1)OC2C(OC(C(C2OC)OC)OC)COC)OC)OC)OC
+","-1.0
+","['290 to 305 °C /Film/', 'Decomposes upon heating from 482° F to 572° F (NTP, 1992)']"
+140,DAUNORUBICIN HYDROCHLORIDE,3085106,"CC1C(C(CC(O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N)O.Cl
+","
+","['370 to 374 °F (decomposes) (NTP, 1992)']"
+141,"Dihydro-3-(2-octenyl)-2,5-furandione",5362689,"CCCCC/C=C/CC1CC(=O)OC1=O
+","3.0
+",['8-12°C']
+142,"GOLD, ELEMENTAL",23985,"[Au]
+","
+",['1064.76 deg  C']
+143,"EPICHLOROHYDRIN (1-CHLORO-2,3-EPOXYPROPANE)",7835,"C1C(O1)CCl
+","0.500
+","['-25.6 °C', 'Melts between 245 and 248 dec C with decomposition.', '467 to 469 °F (decomposes) (NTP, 1992)', '-54.4 to -14.1 °F (EPA, 1998)', '-41.6 °C', '132.0 °C', '-57.2°C', '196-197°C', '200-204°C', '-48 °C', '-54°F', '-54°F']"
+144,ALPHA-CYCLODEXTRIN,444913,"C([C@@H]1[C@@H]2[C@@H]([C@H]([C@H](O1)O[C@@H]3[C@H](O[C@@H]([C@@H]([C@H]3O)O)O[C@@H]4[C@H](O[C@@H]([C@@H]([C@H]4O)O)O[C@@H]5[C@H](O[C@@H]([C@@H]([C@H]5O)O)O[C@@H]6[C@H](O[C@@H]([C@@H]([C@H]6O)O)O[C@@H]7[C@H](O[C@H](O2)[C@@H]([C@H]7O)O)CO)CO)CO)CO)CO)O)O)O
+","-12.9
+","['532 °F (decomposes) (NTP, 1992)']"
+145,Inulin,18772499,"C(C1C(C(C(C(O1)OC2(C(C(C(O2)CO)O)O)COC3(C(C(C(O3)CO)O)O)COC4(C(C(C(O4)CO)O)O)COC5(C(C(C(O5)CO)O)O)COC6(C(C(C(O6)CO)O)O)COC7(C(C(C(O7)CO)O)O)COC8(C(C(C(O8)CO)O)O)COC9(C(C(C(O9)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)COC1(C(C(C(O1)CO)O)O)CO)O)O)O)O
+","-70.2
+",['178°C']
+146,beta-D-Galactopyranuronic acid,441476,"[C@@H]1([C@H]([C@H](O[C@H]([C@@H]1O)O)C(=O)O)O)O
+","-2.3
+",['142-144 °C']
+147,Irinotecan,6083,"C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)N
+","-3.500
+","['196-200 °C', '29.78 °C', '222-223 °C', '195°C', '222-223°C', '85-86°C', '222-223 °C']"
+148,(+)-Erythraline,8897,"C(C(=O)O)NCC(=O)O
+","-3.3
+","['100.0 °C', '150.5 °C', '247.5 °C', '140.0-142.0°C', '215°C', '120°C']"
+149,Budesonide,1004,"OP(=O)(O)O
+","-2.1
+","['-16.37 °C', '202 °C', '42.4 °C', '5.6 °C', '221-232 °C (decomposes)', '50.4 °F (NTP, 1992)', '108 °F (NIOSH, 2016)', '10.0 °C', '-16.4 °C', '120.0 °C', '-25.0 °C', '140.0 °C', '-100.0 °C', '221-232°C', '184-186°C', '130-140°C', '179-180°C', '251°C', '92°C', '42 °C', '-16.6 °C', '108°F', '108°F', '226°C']"
+150,Benzocaine,2337,"CCOC(=O)C1=CC=C(C=C1)N
+","1.900
+","['92 °C', '39 °F (NTP, 1992)', '3.5 °C', '92.0 °C', '5.8 °C', '92°C']"
+151,CELLULOSE,24802025,"C(C1[C@H]([C@H](C([C@@H](O1)O[C@H]2[C@H](C([C@@H](OC2CO)O)O)O)O)O)O)O
+","-4.7
+","['500 to 518 °F (Decomposes) (NIOSH, 2016)', '240.0 °C', '500-518°F (Decomposes)', '500-518°F (decomposes)']"
+152,Cellobiose,9549179,"C([C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)OC2[C@H](O[C@@H]([C@@H]([C@H]2O)O)O)CO)O)O)O)O
+","-4.7
+",['240.0 °C']
