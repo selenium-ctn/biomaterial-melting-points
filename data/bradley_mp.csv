@@ -1,0 +1,60 @@
+,Name,CSID,SMILES,Melting Point (C)
+0,1-thio-beta-D-glucose tetraacetate,79653,CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)S)OC(=O)C)OC(=O)C)OC(=O)C,116
+1,"1,6-anhydro-beta-D-glucopyranose",9587432,C1[C@@H]2[C@H]([C@@H]([C@H]([C@H](O1)O2)O)O)O,182
+2,"2,3,4,6-tetra-o-benzyl-alpha-D-glucopyranose",9905972,c1ccc(cc1)COC[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)O)OCc3ccccc3)OCc4ccccc4)OCc5ccccc5,151
+3,"2,3,4,6-tetra-o-benzyl-D-glucopyranose",9115737,c1ccc(cc1)COC[C@@H]2[C@H]([C@@H]([C@H](C(O2)O)OCc3ccccc3)OCc4ccccc4)OCc5ccccc5,153
+4,2-deoxy-D-glucose,388402,C1[C@H]([C@@H]([C@H](OC1O)CO)O)O,150
+5,acetobromo-alpha-D-glucose,91958,CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)Br)OC(=O)C)OC(=O)C)OC(=O)C,87
+6,alpha-D-glucose pentaacetate,2005838,CC(=O)OC[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,111
+7,beta-D-galactose pentaacetate,85491,CC(=O)OC[C@@H]1[C@@H]([C@@H]([C@H]([C@@H](O1)OC(=O)C)OC(=O)C)OC(=O)C)OC(=O)C,144
+8,D-arabinose,59687,C([C@H]([C@H]([C@@H](C=O)O)O)O)O,156
+,D-fructose,388775,C([C@@H]1[C@H]([C@@H]([C@](O1)(CO)O)O)O)O,108
+10,D-fucose,85076,C[C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O,145
+,D-galactose,2301265,C([C@H]([C@@H]([C@@H]([C@H](C=O)O)O)O)O)O,166
+,"D-glucose, anhydrous",96749,C([C@H]([C@H]([C@@H]([C@H](C=O)O)O)O)O)O,151
+13,diacetone-D-glucose,2005820,CC1(OCC(O1)[C@@H]2[C@@H]([C@@H]3[C@H](O2)OC(O3)(C)C)O)C,109
+14,dl-arabinose,4573877,C([C@@H]([C@@H]([C@H](C=O)O)O)O)O,159
+,D-mannose,17893,C([C@@H]1[C@H]([C@@H]([C@@H](C(O1)O)O)O)O)O,130
+,D-xylose,119104,C1[C@H]([C@@H]([C@H](C(O1)O)O)O)O,149
+,L-fucose,388645,C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)O)O)O)O,139
+18,"methyl 4,6-o-benzylidene-alpha-d-glucopyranoside",558408,CO[C@@H]1[C@@H]([C@H]([C@H]2[C@H](O1)CO[C@H](O2)c3ccccc3)O)O,165
+,methyl alpha-d-glucopyranoside,58473,CO[C@@H]1[C@@H]([C@H]([C@@H]([C@H](O1)CO)O)O)O,169
+20,"1,2,3,4,6-Pentakis-O-{3,4-dihydroxy-5-[(3,4,5-trihydroxybenzoyl)oxy]benzoyl}-beta-D-glucopyranose",17286569,O=C(O[C@@H]9O[C@H](COC(=O)c2cc(O)c(O)c(OC(=O)c1cc(O)c(O)c(O)c1)c2)[C@@H](OC(=O)c4cc(O)c(O)c(OC(=O)c3cc(O)c(O)c(O)c3)c4)[C@H](OC(=O)c6cc(O)c(O)c(OC(=O)c5cc(O)c(O)c(O)c5)c6)[C@H]9OC(=O)c8cc(O)c(O)c(OC(=O)c7cc(O)c(O)c(O)c7)c8)c%11cc(O)c(O)c(OC(=O)c%10cc(O)c(O)c(O)c%10)c%11,210
+21,2-(Hydroxymethyl)phenyl beta-D-glucopyranoside,388601,OCc2ccccc2O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O,199
+22,2-O-Acetyl-3-O-bromo-D-glucose,91958,Br[C@H]1O[C@H](COC(C)=O)[C@@H](OC(C)=O)[C@H](OC(C)=O)[C@H]1OC(C)=O,89.5
+23,7-Hydroxy-2-oxo-2H-chromen-6-yl beta-D-glucopyranoside,4444765,O=C2C=Cc3cc(O[C@@H]1O[C@H](CO)[C@@H](O)[C@H](O)[C@H]1O)c(O)cc3O2,205
+24,alpha-D-Glucopyranosyl-(1->4)-alpha-D-glucopyranosyl-(1->4)-D-glucopyranose,388669,O[C@@H]3[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]3O[C@@H]2[C@@H](CO)O[C@H](O[C@@H]1[C@@H](CO)OC(O)[C@H](O)[C@H]1O)[C@H](O)[C@H]2O,133
+25,Dodecyl 4-O-alpha-D-glucopyranosyl-beta-D-glucopyranoside,102836,O[C@@H]2[C@@H](O)[C@H](O)[C@@H](CO)O[C@@H]2O[C@@H]1[C@@H](CO)O[C@@H](OCCCCCCCCCCCC)[C@H](O)[C@H]1O,150
+26,".alpha.-d-glucopyranoside, methyl",2024,OC1C(O)C(O)C(CO)OC1OC,168
+,d-xylose,831,OC(C=O)C(O)C(O)CO,90.5
+28,".beta.-d-glucopyranose, 4-o-.beta.-d-galactopyra",5904,OC2C(OC1OC(CO)C(O)C(O)C1O)C(CO)OC(O)C2O,254
+,l-arabinose,224,OC1C(O)COC(O)C1O,158
+,galactose,201,OC1C(O)C(CO)OC(O)C1O,170
+,alpha-d-glucose,201,OC1C(O)C(CO)OC(O)C1O,146
+,glucose,201,OC1C(O)C(CO)OC(O)C1O,83
+33,".alpha.-d-glucopyranose, pentaacetate",71396,O=C(C)OC1OC(COC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,113.3
+34,"beta-d-glucopyranose, pentaacetate",71396,O=C(C)OC1OC(COC(C)=O)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,134
+35,d-galacturonic acid,134737,OC(C(O)C(O)C(O)C=O)C(=O)O,166
+36,"d-fructose, 3-o-.alpha.-d-glucopyranosyl-",190428,OCC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(=O)CO,168
+,"d-fructose, 3-o-.alpha.-d-glucopyranosyl-",190428,OCC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(=O)CO,168
+,rhamnose,190747,OC(C)C(O)C(O)C(O)C=O,122
+,l-fucose,190747,OC(C)C(O)C(O)C(O)C=O,140
+40,d-fucose,190747,OC(C)C(O)C(O)C(O)C=O,144
+41,"beta-d-glucopyranoside, 4-nitrophenyl",227670,[O-][N+](=O)c1ccc(cc1)OC2OC(CO)C(O)C(O)C2O,166.5
+42,"?-d-glucopyranoside, 4-nitrophenyl",227670,[O-][N+](=O)c1ccc(cc1)OC2OC(CO)C(O)C(O)C2O,211
+43,cellobiose,268424,O=CC(O)C(O)C(OC1OC(CO)C(O)C(O)C1O)C(O)CO,240
+44,5-thio-d-glucose,271575,OC1C(O)C(CO)SC(O)C1O,135.5
+45,"beta-d-glucopyranoside, phenyl",277113,OCC2OC(Oc1ccccc1)C(O)C(O)C2O,177
+46,acetobromglucose,306631,O=C(C)OC1OC(CBr)C(OC(C)=O)C(OC(C)=O)C1OC(C)=O,88.5
+47,4-methoxyphenyl glucopyranoside,337197,COc1ccc(cc1)OC2OC(CO)C(O)C(O)C2O,159
+48,"glucopyranoside, propyl, tetranitrate, ?-d-",10469321,[O-][N+](=O)OCC1OC(OCCC)C(O[N+]([O-])=O)C(O[N+]([O-])=O)C1O[N+]([O-])=O,199
+49,"glucopyranoside, butyl, tetranitrate, ?-d-",10469328,[O-][N+](=O)OCC1OC(OCCCC)C(O[N+]([O-])=O)C(O[N+]([O-])=O)C1O[N+]([O-])=O,199
+,"glucopyranoside, ethyl, tetranitrate, ?-d-",10469338,CCOC1OC(CO[N+]([O-])=O)C(O[N+]([O-])=O)C(O[N+]([O-])=O)C1O[N+]([O-])=O,199
+51,2-Deoxy-2-[(methoxycarbonyl)amino]-beta-D-glucopyranose,21474808,O=C(OC)N[C@@H]1[C@@H](O)[C@H](O)[C@H](O[C@H]1O)CO,195.85
+52,N-Carbamoyl-beta-D-glucopyranosylamine,2095571,O=C(N[C@@H]1O[C@@H]([C@@H](O)[C@H](O)[C@H]1O)CO)N,207
+,D-galactose,2301265,O=C[C@H](O)[C@@H](O)[C@@H](O)[C@H](O)CO,167
+,glucose,71358,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,150.5
+,glucose,71358,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,146
+,glucose,71358,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,146
+,glucose,71358,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,146.85
+,glucose,71358,C([C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)O)O)O)O)O,146
