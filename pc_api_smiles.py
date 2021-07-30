@@ -15,6 +15,7 @@ smiles_list = []
 xlogp_list = []
 mp_list = [] 
 name_list = []
+flag = False
 for mol in cid_list:
     curr_url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/" + mol + "/property/IsomericSMILES/TXT"
     response = requests.get(curr_url)
@@ -24,11 +25,26 @@ for mol in cid_list:
     xlogp_list.append(response.text)
     lil_lst = []
     for ind, ci in enumerate(df.loc[:, "CID"]):
-        if mol in ci:
+        cid_str = ci[1:-1]
+        cl = cid_str.split(", ")
+        ci_set = set(cl)
+        if mol in ci_set:
             name = df.loc[ind, "Name"]
             lil_lst.append(df.loc[ind, "Melting Point"]) 
-    name_list.append(name)
+            if not flag:
+                name_list.append(name)
+            flag = True
+    if not flag:
+        print(mol)
     mp_list.append(lil_lst)
+    flag = False 
+
+print(len(name_list))
+print(len(cid_list))
+print(len(smiles_list))
+print(len(xlogp_list))
+print(len(mp_list))
+
 
 dat = np.stack((name_list, cid_list, smiles_list, xlogp_list, mp_list), axis=1)
 
