@@ -23,16 +23,19 @@ for mol in cid_list:
     curr_url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/" + mol + "/property/XlogP/TXT" 
     response = requests.get(curr_url)
     xlogp_list.append(response.text)
+    curr_url = "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/cid/" + mol + "/property/Title/TXT" 
+    response = requests.get(curr_url)
+    name_list.append(response.text)
     lil_lst = []
     for ind, ci in enumerate(df.loc[:, "CID"]):
         cid_str = ci[1:-1]
         cl = cid_str.split(", ")
         ci_set = set(cl)
         if mol in ci_set:
-            name = df.loc[ind, "Name"]
+            #name = df.loc[ind, "Name"]
             lil_lst.append(df.loc[ind, "Melting Point"]) 
-            if not flag:
-                name_list.append(name)
+            #if not flag:
+            #    name_list.append(name)
             flag = True
     if not flag:
         print(mol)
